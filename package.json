@@ -1,0 +1,24 @@
+{
+  "name": "usamaproject",
+  "version": "1.0.0",
+  "description": "this is for usama slit graduation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saleh-almohtaseb/usamaProject.git"
+  },
+  "author": "saleh almohtaseb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saleh-almohtaseb/usamaProject/issues"
+  },
+  "homepage": "https://github.com/saleh-almohtaseb/usamaProject#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "sequelize": "^4.37.8"
+  }
+}
